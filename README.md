@@ -6,4 +6,4 @@ The Harvard-FairVLMed dataset can be accessed via this https://drive.google.com/
 conda create --name envname python=3.9.12
 pip install -r requirements.txt
 # Experiments
-To run the experiments: bash Multimodal.sh
+To run the experiments: bash multimodal.sh
