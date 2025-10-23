@@ -1,5 +1,5 @@
 # Fairness-Aware Multimodal Learning
-Fairness-Aware Multimodal Learning for Glaucoma Diagnosis via Visual-Text Alignment
+Fairness-Aware Multimodal Representation Learning for Healthcare Data A Visual–Text Alignment Framework for Glaucoma Diagnosis
 # Dataset
 The Harvard-FairVLMed dataset can be accessed via this https://drive.google.com/drive/folders/1bkeifigwOAfnsLvup9mJOSNeA3WsvA2l
 # Installation
