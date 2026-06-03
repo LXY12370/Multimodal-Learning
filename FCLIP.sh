@@ -13,7 +13,7 @@ BATCH_SIZE_FAIR=32
 
 PERF_FILE=${MODEL_ARCH}_${MODALITY_TYPE}_${ATTRIBUTE_TYPE}_FairCLIP.csv
 
-python ./RF3CLIP.py \
+python ./FCLIP.py \
 		--num_epochs ${NUM_EPOCH} \
 		--dataset_dir ${DATASET_DIR} \
 		--result_dir ${RESULT_DIR}/results/glaucoma_RobustFairCLIP_${MODEL_ARCH}_${ATTRIBUTE_TYPE}_ \
